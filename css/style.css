@@ -2,19 +2,10 @@ body
 {
   background-color: #CEE4ED;
 }
-footer {
-  background-color: #2A5E99;;
-  padding: 10px;
-  width: 1432px;
-  height: 36px;
-  position: absolute;
-  bottom: 0px;
-  left: -8px;
-}
 .header
 {
   background-color: #2A5E99;
-  position: absolute;
+  position: fixed;
   width: 1448px;
   height: 96px;
   left: -8px;
@@ -22,7 +13,7 @@ footer {
 }
 .stheader
 {
-  position: absolute;
+  position: fixed;
   width: 612px;
   height: 74px;
   left: 410px;
@@ -34,6 +25,16 @@ footer {
   line-height: 79px;
   text-align: center;
   color: #FFFFFF;
+}
+footer
+{
+  background-color: #2A5E99;;
+  padding: 10px;
+  width: 1432px;
+  height: 36px;
+  position: fixed;
+  bottom: 0px;
+  left: -8px;
 }
 .cifooter
 {
