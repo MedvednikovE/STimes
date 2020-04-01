@@ -6,9 +6,10 @@ footer {
   background-color: #2A5E99;;
   padding: 10px;
   width: 1432px;
-  height: 65px;
+  height: 36px;
   position: absolute;
   bottom: 0px;
+  left: -8px;
 }
 .header
 {
