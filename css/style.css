@@ -26,6 +26,21 @@ body
   text-align: center;
   color: #FFFFFF;
 }
+.mainmenutext
+{
+  position: absolute;
+  width: 624px;
+  height: 100px;
+  left: 427px;
+  top: 33px;
+  font-family: Coiny;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 79px;
+  text-align: center;
+  color: #2A5E99;
+}
 footer
 {
   background-color: #2A5E99;;
