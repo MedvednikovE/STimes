@@ -15,19 +15,27 @@ footer {
   font-size: smaller;
   text-align: center;
 }
+.header
+{
+  background-color: #2A5E99;
+  position: absolute;
+  width: 1448px;
+  height: 96px;
+  left: -8px;
+  top: 0px;
+}
 .stheader
 {
   position: absolute;
-width: 612px;
-height: 74px;
-left: 410px;
-top: -40px;
-
-font-family: Coiny;
-font-style: normal;
-font-weight: normal;
-font-size: 56px;
-line-height: 79px;
-text-align: center;
-color: #FFFFFF;
+  width: 612px;
+  height: 74px;
+  left: 410px;
+  top: -40px;
+  font-family: Coiny;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 56px;
+  line-height: 79px;
+  text-align: center;
+  color: #FFFFFF;
 }
