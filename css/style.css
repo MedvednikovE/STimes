@@ -41,8 +41,7 @@ footer
   position: fixed;
   width: 343px;
   height: 31px;
-  left: 41px;
-  top: 1621px;
+  padding: 10px;
   font-family: Fenix;
   font-style: normal;
   font-weight: normal;
